@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    n = int(input("ingresa un numero mayor a 5 y menor a 20: "))
+    n = int(input("ingresa un numero mayor a 5 y menor a 20: "))  
 
     if n <= 5 or n >= 20:
         print("Error: el número debe ser mayor a 5 y menor a 20")
